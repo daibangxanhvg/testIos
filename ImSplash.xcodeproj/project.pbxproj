@@ -156,7 +156,6 @@
 		CFE0DDEA244F5FCC00539518 = {
 			isa = PBXGroup;
 			children = (
-				CFE0DE0D244F633000539518 /* ClassesHelper */,
 				CFE0DDF5244F5FCC00539518 /* ImSplash */,
 				CFE0DDF4244F5FCC00539518 /* Products */,
 				C5B76C5A626C87C0D97A1261 /* Pods */,
@@ -175,6 +174,7 @@
 		CFE0DDF5244F5FCC00539518 /* ImSplash */ = {
 			isa = PBXGroup;
 			children = (
+				CFE0DE0D244F633000539518 /* ClassesHelper */,
 				CFE5CF66245087DE00F0869B /* Model */,
 				CFE5CF612450744100F0869B /* CachingHelper */,
 				CFE5CF56245047D300F0869B /* Scences */,
